@@ -296,7 +296,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/dubbedmoviez_77">@dubbedmoviez_77 {file_name}</a></b>\n\n<b>⚜️ 𝙪𝙥𝙡𝙤𝙖𝙙𝙚𝙙 𝙗𝙮 : [<a href="https://t.me/dubbedmoviez_77"> Dᴜʙʙᴇᴅ Mᴏᴠɪᴇz 77 </a>]</b>"""
+    CAPTION = """<b><a href="https://t.me/dubbedmoviez_77">@DUBBEDMOVIEZ_77-{file_name}</a></b>\n\n<b>⚜️ 𝙪𝙥𝙡𝙤𝙖𝙙𝙚𝙙 𝙗𝙮 : [<a href="https://t.me/dubbedmoviez_77"> Dᴜʙʙᴇᴅ Mᴏᴠɪᴇz 77 </a>]</b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
@@ -316,7 +316,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 """
 
 
-    IMDB_TEMPLATE_TXT = """<b>{title} ({year}</b>)
+    IMDB_TEMPLATE_TXT = """<b>🏷 ᴛɪᴛʟᴇ : {title} ({year}</b>)
 
 <b>⏰ ʀᴇsᴜʟᴛ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 📝 ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}</b>"""
