@@ -143,7 +143,7 @@ Nᴀᴍᴇ - {}
     CUDNT_FND = SPELLING_ERROR_TXT = """<b>‼️ ꜱᴘᴇʟʟɪɴɢ ᴍɪꜱᴛᴀᴋᴇ ʙʀᴏ!</b>  
 <b>😊 ɴᴏ ᴡᴏʀʀɪᴇꜱ — ᴄʜᴏᴏꜱᴇ ᴛʜᴇ ᴄᴏʀʀᴇᴄᴛ ᴏɴᴇ ʙᴇʟᴏᴡ 👇</b>
 
-<blockquote>👇 नChoose the correct spelling of the movie name from the options given below.</blockquote>"""
+<blockquote>👇 Choose the correct spelling of the movie name from the options given below.</blockquote>"""
 
 
     DEL_MSG = """⚠️ ᴛʜɪꜱ ᴍᴏᴠɪᴇ ꜰɪʟᴇ/ᴠɪᴅᴇᴏ ᴡɪʟʟ ʙᴇ ᴅᴇʟᴇᴛᴇᴅ ɪɴ <b><u><code>{}</code></u></b>
@@ -316,7 +316,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 """
 
 
-    IMDB_TEMPLATE_TXT = """<b>🏷 ᴛɪᴛʟᴇ : {title} (<a href="https://t.me/dubbedmoviez_77">{year}</a></b>)
+    IMDB_TEMPLATE_TXT = """<b>🏷 ᴛɪᴛʟᴇ : {title} (<a href="https://t.me/dubbedmoviez_77">{year}</a>)</b>
 
 <b>⏰ ʀᴇsᴜʟᴛ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 📝 ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}</b>"""
