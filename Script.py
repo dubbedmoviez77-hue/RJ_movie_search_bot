@@ -48,7 +48,7 @@ class script(object):
 
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
-🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
+🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Karnataka</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code> v1.4 [ Sᴛᴀʙʟᴇ ]</code>
 </b>"""
 
@@ -316,7 +316,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 """
 
 
-    IMDB_TEMPLATE_TXT = """<b>🏷 ᴛɪᴛʟᴇ : {title} ({year}</b>)
+    IMDB_TEMPLATE_TXT = """<b>🏷 ᴛɪᴛʟᴇ : {title} (<a href="https://t.me/dubbedmoviez_77">{year}</a></b>)
 
 <b>⏰ ʀᴇsᴜʟᴛ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 📝 ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}</b>"""
