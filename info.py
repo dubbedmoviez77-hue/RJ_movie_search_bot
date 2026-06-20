@@ -21,7 +21,7 @@ SESSION = environ.get('SESSION', 'RJ_JAYU_MOVIE_SEARCH')   # Session name for th
 API_ID = int(environ.get('API_ID', '38804995')) # API ID from my.telegram.org
 API_HASH = environ.get('API_HASH', '23cda48afb7aac7f1704ab12ac97ec65')  # API Hash from my.telegram.org
 BOT_TOKEN = environ.get('BOT_TOKEN', "8728991198:AAGeNM6cpB-5FBKaSB8UBQYuJ5CBs5XKscE")    # Bot token from @BotFather
-
+ 
 # ============================
 # Bot Settings Configuration
 # ============================
