@@ -22,7 +22,7 @@
 
 Try the live bot here:
 
-[![Click Here](https://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white)](https://t.me/No1_movie_search_bot)
+[![Click Here](https://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white)](https://t.me/RJ_No1_auto_filter_Bot)
 
 ---
 
